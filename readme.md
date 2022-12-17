@@ -16,10 +16,10 @@ npm install
 npm run dev
 ```
 
-- Build the project
+- Build the project and serve locally
 
 ```
-npm run build and serve locally
+npm run build
 npm install -g serve
 serve -s build
 ```
